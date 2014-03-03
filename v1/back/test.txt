@@ -1,0 +1,18 @@
+{message:"Script error.",url:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/er.js",line:"0",browser:{name:"mozilla",version:"23.0"},os:"Windows 7",screenResolution:"1366x768",dateTime:"Sat Sep 14 2013 00:51:31 GMT 0530 (India Standard Time)",origin:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/index.html",appId:"1"}
+
+{message:"Script error.",url:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/er.js",line:"0",browser:{name:"mozilla",version:"23.0"},os:"Windows 7",screenResolution:"1366x768",dateTime:"Sat Sep 14 2013 00:51:39 GMT 0530 (India Standard Time)",origin:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/index.html",appId:"1"}
+
+{message:"Script error.",url:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/er.js",line:"0",browser:{name:"mozilla",version:"23.0"},os:"Windows 7",screenResolution:"1366x768",dateTime:"Sat Sep 14 2013 00:52:06 GMT 0530 (India Standard Time)",origin:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/index.html",appId:"1"}
+
+{message:"Script error.",url:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/er.js",line:"0",browser:{name:"mozilla",version:"23.0"},os:"Windows 7",screenResolution:"1366x768",dateTime:"Sat Sep 14 2013 00:52:08 GMT 0530 (India Standard Time)",origin:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/index.html",appId:"1"}
+
+{message:"Script error.",url:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/er.js",line:"0",browser:{name:"mozilla",version:"23.0"},os:"Windows 7",screenResolution:"1366x768",dateTime:"Sat Sep 14 2013 00:52:10 GMT 0530 (India Standard Time)",origin:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/index.html",appId:"1"}
+
+{message:"Script error.",url:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/er.js",line:"0",browser:{name:"mozilla",version:"23.0"},os:"Windows 7",screenResolution:"1366x768",dateTime:"Sat Sep 14 2013 00:52:10 GMT 0530 (India Standard Time)",origin:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/index.html",appId:"1"}
+
+{message:"Script error.",url:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/er.js",line:"0",browser:{name:"mozilla",version:"23.0"},os:"Windows 7",screenResolution:"1366x768",dateTime:"Sat Sep 14 2013 00:52:21 GMT 0530 (India Standard Time)",origin:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/index.html",appId:"1"}
+
+{message:"Script error.",url:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/er.js",line:"0",browser:{name:"mozilla",version:"23.0"},os:"Windows 7",screenResolution:"1366x768",dateTime:"Sat Sep 14 2013 00:52:50 GMT 0530 (India Standard Time)",origin:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/index.html",appId:"1"}
+
+{message:"Script error.",url:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/er.js",line:"0",browser:{name:"mozilla",version:"23.0"},os:"Windows 7",screenResolution:"1366x768",dateTime:"Sat Sep 14 2013 00:55:30 GMT 0530 (India Standard Time)",origin:"file:///D:/SVN%20Repo/Naukri_India/UI%20Development/tarunjslib/nodedemo/errFront/index.html",appId:"1"}
+
